@@ -4,3 +4,12 @@ body {
   background-image: linear-gradient(white, grey);
   font-family: "Sofia", sans-serif;
 }
+.left {
+  float:left;
+}
+.center {
+  float:center;
+}
+.right {
+  float:right;
+}
