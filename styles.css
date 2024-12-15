@@ -1,0 +1,6 @@
+body {
+  background-color:white;
+  height: 200px;
+  background-image: linear-gradient(white, grey);
+  font-family: "Sofia", sans-serif;
+}
